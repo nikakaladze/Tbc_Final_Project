@@ -17,4 +17,4 @@ function useDeviceType() {
     return deviceType
 }
 
-export default useDeviceType
+export default useDeviceType;
